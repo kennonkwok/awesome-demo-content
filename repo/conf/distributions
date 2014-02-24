@@ -1,0 +1,8 @@
+Origin: AwesomeCo
+Label: AwesomeCo-All
+Suite: stable
+Codename: awesomerepo
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: AwesomeCo's package repo
